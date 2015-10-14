@@ -29,7 +29,7 @@ var B = React.createClass({
 		return (
 
 			<div>
-				<D /> // sua doi  lan 2
+				<D /> // sua doi  dd
 			</div>
 		);
 	}
