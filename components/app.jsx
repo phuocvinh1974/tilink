@@ -1,7 +1,10 @@
 var App = React.createClass({
 	render: function () {
 		return (
-			<LoginForm />
+			<div>
+			<Sidebar />
+			<Container />
+			</div>
 		);
 	}
 });
