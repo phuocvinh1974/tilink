@@ -1,9 +1,10 @@
 var Main = React.createClass({
 	render: function () {
 		return (
-			<div>
-				Main Prog
-			</div>
+				<div className="flex">
+					<Sidebar />
+					<Container />
+				</div>
 		);
 	}
 });

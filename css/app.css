@@ -24,14 +24,9 @@
 	margin: 12px 12px 12px 12px;
 }
 
-.header
-{
-	margin: 5px 12px 0px 0px;
-}
-
 body
 {
-	background-color: #E8EAF6;
+	background-color: #e9eaed;
 }
 
 input
@@ -74,6 +69,35 @@ a:link
 .flex
 {
 	display: flex;
+}
+
+.flex-H-space-between
+{
+	justify-content:space-between
+}
+
+.flex-V-center
+{
+	align-items: center;
+}
+
+
+.topBar
+{
+	border-bottom: solid 1px #133783;
+	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.topBar-left
+{
+	margin: 5px 12px 0px 0px;
+}
+
+.topBar-right
+{
+	fontSize: 13pt !important;
+	color: #FFF;
+	margin: auto 10px auto 10px;
 }
 
 .sidebar 

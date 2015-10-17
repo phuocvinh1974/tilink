@@ -1,9 +1,8 @@
-var App = React.createClass({
+var PlanList = React.createClass ({
 	render: function () {
 		return (
 			<div>
-				<TopBar />
-				<Main />
+				Plan List:
 			</div>
 		);
 	}

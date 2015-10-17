@@ -16,9 +16,14 @@
   
       <script type="text/jsx" src="components/app.jsx"></script>
       <script type="text/jsx" src="components/login.form.jsx"></script>
+      <script type="text/jsx" src="components/topbar.jsx"></script>
+      <script type="text/jsx" src="components/topbar.left.jsx"></script>
+      <script type="text/jsx" src="components/topbar.right.jsx"></script>
+      <script type="text/jsx" src="components/plan/plan.topbar.left.jsx"></script>
+      <script type="text/jsx" src="components/plan/plan.finder.controlbox.jsx"></script>
+      <script type="text/jsx" src="components/plan/plan.quickadd.controlbox.jsx"></script>
+      <script type="text/jsx" src="components/main.jsx"></script>
       <script type="text/jsx" src="components/sidebar.jsx"></script>
-      <script type="text/jsx" src="components/plan.finder.controlbox.jsx"></script>
-      <script type="text/jsx" src="components/plan.quickadd.controlbox.jsx"></script>
       <script type="text/jsx" src="components/container.jsx"></script>
      
       <script type="text/jsx">
